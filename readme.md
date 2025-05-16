@@ -29,7 +29,7 @@ A simple Progressive Web App (PWA) that displays a random verse from the Quran a
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/quran-verse-app.git
+git clone https://github.com/tjf2000/QuranVerse.git
 cd quran-verse-app
 ````
 
