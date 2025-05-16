@@ -1,0 +1,10 @@
+{
+    "name": "QuranVerse",
+    "version": "1.0.0",
+    "description": "A simple application for displaying Quranic verses.",
+    "author": "TJF2000",
+    "start_url": "index.html",
+    "orientation": "portrait",
+    "display": "standalone",
+    "license": "MIT"
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>QuranVerse</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>QuranVerse</h1>
+
+            <div class="verse-container">
+                <p id="verse-text" class="verse"></p>
+                <p id="verse-key" class="key"></p>
+                <p id="verse-translation" class="translation"></p>
+
+                <div id="verse-tafseer-box" class="tafseer hidden">
+                    <h2>Tafseer</h2>
+                    <p id="verse-tafseer"></p>
+                </div>
+            </div>
+
+            <div class="controls">
+                <button id="new-verse-btn">New Verse</button>
+                <button id="toggle-tafseer-btn">Show/Hide Tafseer</button>
+                <button id="toggle-theme-btn">Light/Dark Mode</button>
+            </div>
+        </div>
+
+        <script src="app.js" defer></script>
+    </body>
+</html>
