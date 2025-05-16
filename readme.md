@@ -67,7 +67,8 @@ Navigate to `http://localhost:8000` or the port shown by your server.
 
 ## 📘 Credits
 
-* Quran text and translation: \[Your Source or API name if applicable]
+* Quran text: [risan/quran-json](https://github.com/risan/quran-json)
+* Tafseer text: [English Al-Mukhtasar](https://qul.tarteel.ai/resources/tafsir/266)
 * Built with ❤️ for learning and spiritual reflection
 
 ---
